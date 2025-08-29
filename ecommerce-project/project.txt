@@ -1,0 +1,3 @@
+cretate npm create vite@latest
+npm i
+install tailwind
